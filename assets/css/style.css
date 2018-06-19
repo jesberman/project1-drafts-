@@ -1,0 +1,64 @@
+body {
+    background-image: url(../images/violet3.png);
+
+
+}
+
+.jumbotron {
+    background-image: url(../images/violet.jpg);
+
+    color: white;
+    text-align: center;
+    height: 28%;
+    font-style: italic;
+    padding-bottom: 2%;
+}
+
+#welcome {
+    text-align: left;
+}
+
+
+#zip {
+
+    position: relative;
+    left: 35%;
+    font-weight: bold;
+    color: whitesmoke;
+
+}
+
+#submit {
+    font-weight: bold;
+
+
+}
+
+#weather-box {
+position:relative;
+left: 8%;
+height: 60%;
+color: whitesmoke;
+
+}
+
+
+
+#music-box {
+
+position:relative;
+left: 2%;
+height: 60%;
+color: whitesmoke;
+
+
+
+}
+
+
+.col-lg-5 {
+
+    margin-left: 3%;
+    margin-right: 3%;
+
+}
